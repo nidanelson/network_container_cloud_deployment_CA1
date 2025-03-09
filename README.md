@@ -31,9 +31,12 @@ This guide outlines the steps to automate the provisioning of cloud infrastructu
 
 - **Azure Account**: Ensure you have an active Azure subscription.
 - **Terraform Installed**: Install Terraform using the following commands:
-- 
   sudo apt-get install terraform
+
+  **Verify the installation**:
   terraform version
+
+  **Enable AutoComplete**:
   terraform-install-autocomplete
   
  ## Steps to setup Terraform
