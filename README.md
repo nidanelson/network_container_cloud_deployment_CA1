@@ -155,13 +155,13 @@ The following Git commands are used to manage the code:
    Clone the repository to your local machine using the command:
    git clone your-repository url.git
    
-2. **Add Changes**
+2. **Add Changes**:
    git add .
 
-3. **Commit Chnages**
+3. **Commit Chnages**:
    git commit -m "My Deployment"
 
-4. **Push Changes**
+4. **Push Changes**:
    git push origin main      
 
    
