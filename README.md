@@ -46,9 +46,12 @@ Follow the steps below to install Terraform and verify the installation.
 
 1. **Install Terraform**  
    Use the following command to install Terraform on your system:
-   
    sudo apt-get install terraform
+
+2. **Verify the installation**:
    terraform version
+
+3. **Enable AutoComplete**:
    terraform-install-autocomplete
 
 # Configuration Management Using Ansible
@@ -62,9 +65,10 @@ Below are the main steps to achieve this:
 
 ### 1. Install Ansible
 
-Install Ansible and verify the installation using the following commands:
-
+**Install Ansible**:   
 sudo apt install ansible
+
+**Verify the Installation**:
 ansible --version
 
 # Docker Container Deployment
